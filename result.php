@@ -40,7 +40,7 @@ foreach($details as $d) if($d['dung_sai'] == 1) $correctQ++;
 <body class="bg-slate-50 text-slate-800 pb-20 font-sans">
     
     <header class="bg-white border-b border-slate-200 h-16 flex items-center px-6 sticky top-0 z-50">
-        <a href="home.html" class="text-slate-500 hover:text-red-600 font-medium"><i class="fa-solid fa-house mr-2"></i> Trang chủ</a>
+        <a href="index.php" class="text-slate-500 hover:text-red-600 font-medium"><i class="fa-solid fa-house mr-2"></i> Trang chủ</a>
         <span class="mx-3 text-slate-300">|</span>
         <h1 class="font-bold text-lg text-slate-800">Kết quả chi tiết</h1>
     </header>
